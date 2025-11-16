@@ -2,11 +2,6 @@
 
 Edubridge is a comprehensive web application that connects learners with relevant courses and job opportunities. The platform features an intelligent job recommendation system that matches courses with suitable job positions based on various criteria including skills, industry, and job titles.
 
-## Preview
-
-## 🎥 Demo Video
-▶️ **[Click here to watch the EduBridge Preview](https://raw.githubusercontent.com/HarshadaGawas05/Edubridge/main/EduBridge%20Preview.mp4)**
-
 ## Features
 
 ### Course Management
